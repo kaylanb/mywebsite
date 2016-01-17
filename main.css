@@ -13,3 +13,11 @@
 #color_green {
     color: green;
 }
+
+#topMargin {
+	margin-top: 1cm;
+}
+
+#leftHeading {
+	text-align: left;
+}
