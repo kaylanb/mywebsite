@@ -21,3 +21,24 @@
 #leftHeading {
 	text-align: left;
 }
+
+#noTextShadow {
+	text-shadow: none;
+}
+
+.blackText {
+	color: black;
+}
+
+.linkText {
+	color: blue;
+	text-decoration: underline;
+}
+
+.smallText {
+	font-size: 14px;
+}
+
+#sameLine {
+	display: inline;
+}
